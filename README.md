@@ -1,28 +1,32 @@
 # 👩‍💻 Valentina Carrillo Ramírez
 
-Soy Técnica en Sistemas (2012) y actualmente estudiante de **Análisis y Desarrollo de Software**.  
-Me apasiona la programación y quiero participar activamente en proyectos que me permitan aplicar los lenguajes de programación en mi vida profesional.
+I am a **Systems Technician (2012)** and currently a **Software Analysis and Development student**.
 
-## 🎯 Objetivos
-- Aprender y aplicar lenguajes de programación en proyectos reales.  
-- Desarrollar habilidades prácticas en análisis y desarrollo de software.  
-- Seguir estudiando y crecer en el área de TI.  
+I am passionate about programming and eager to participate in projects that allow me to apply and improve my technical skills while growing professionally in the IT field.
 
-## 💻 Conocimientos
-- Fundamentos de hardware y sistemas.  
-- Manejo básico de herramientas digitales (Canva, Trello).  
-- Lenguaje de programación en aprendizaje: Python (nivel principiante).  
-- Bases de datos: SQL (próximamente en aprendizaje).  
+## 🎯 Goals
 
-## 🛠️ Herramientas y metodologías
-- Git y GitHub (repositorios, control de versiones).  
-- Metodologías ágiles (SCRUM, en aprendizaje).  
-- Documentación y organización de proyectos.  
+* Learn and apply programming languages in real-world projects.
+* Develop practical skills in software analysis and development.
+* Continue learning and growing in the technology field.
 
-## 🌱 Intereses
-- Programación y desarrollo de software.  
-- Aprendizaje continuo en TI.  
-- Creatividad y proyectos personales.  
+## 💻 Knowledge
 
-- ⚡ Fun fact: ...
--->
+* Hardware and computer systems fundamentals.
+* Basic use of digital tools (Canva, Trello).
+* Python (beginner level).
+* SQL databases (currently preparing to learn).
+
+## 🛠️ Tools & Methodologies
+
+* Git & GitHub (repositories and version control).
+* Agile methodologies (SCRUM - learning).
+* Project documentation and organization.
+
+## 🌱 Interests
+
+* Programming and software development.
+* Continuous learning in IT.
+* Creativity and personal projects.
+
+
