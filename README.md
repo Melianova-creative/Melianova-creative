@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩‍💻 Valentina Carrillo Ramírez
 
-<!--
-**Melianova-creative/Melianova-creative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnica en Sistemas (2012) y actualmente estudiante de **Análisis y Desarrollo de Software**.  
+Me apasiona la programación y quiero participar activamente en proyectos que me permitan aplicar los lenguajes de programación en mi vida profesional.
 
-Here are some ideas to get you started:
+## 🎯 Objetivos
+- Aprender y aplicar lenguajes de programación en proyectos reales.  
+- Desarrollar habilidades prácticas en análisis y desarrollo de software.  
+- Seguir estudiando y crecer en el área de TI.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 💻 Conocimientos
+- Fundamentos de hardware y sistemas.  
+- Manejo básico de herramientas digitales (Canva, Trello).  
+- Lenguaje de programación en aprendizaje: Python (nivel principiante).  
+- Bases de datos: SQL (próximamente en aprendizaje).  
+
+## 🛠️ Herramientas y metodologías
+- Git y GitHub (repositorios, control de versiones).  
+- Metodologías ágiles (SCRUM, en aprendizaje).  
+- Documentación y organización de proyectos.  
+
+## 🌱 Intereses
+- Programación y desarrollo de software.  
+- Aprendizaje continuo en TI.  
+- Creatividad y proyectos personales.  
+
 - ⚡ Fun fact: ...
 -->
