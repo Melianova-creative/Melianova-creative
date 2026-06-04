@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Melianova-creative/Melianova-creativa/blob/principal/Copiloto_20260604_182130.png?raw=true" alt="Imagen creativa" width="600">
+  <img src="https://github.com/Melianova-creative/Melianova-creativa/blob/principal/Copilot_20260604_182130.png" alt="Imagen creativa" width="600">
 </p>
 
 # 👩‍💻 Valentina Carrillo Ramírez
