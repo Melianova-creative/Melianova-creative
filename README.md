@@ -2,6 +2,7 @@
   <img src="https://github.com/Melianova-creative/Melianova-creativa/blob/principal/Copiloto_20260604_182130.png?raw=true" alt="Imagen creativa" width="600">
 </p>
 
+
 # 👩‍💻 Valentina Carrillo Ramírez
 
 I am a **Systems Technician (2012)** and currently a **Software Analysis and Development student**.
