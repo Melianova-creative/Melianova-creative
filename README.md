@@ -1,4 +1,6 @@
-![Imagen de perfil creativa](perfil)
+<p align="center">
+  <img src="Copiloto_20260604_182130.png" alt="Imagen creativa" width="600">
+</p>
 
 # 👩‍💻 Valentina Carrillo Ramírez
 
